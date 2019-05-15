@@ -1,0 +1,16 @@
+[
+	{
+		"username":"purpleurkle",
+		"password":"waldos",
+		"lineId": "1234567890",
+		"contractId": "1234567890cc",
+		"useDataFile": true
+	},
+	{
+		"username":"grapeape",
+		"password":"fruit",
+		"lineId": "0987654321",
+		"contractId": "0987654321cc",
+		"useDataFile": true
+	}
+]
