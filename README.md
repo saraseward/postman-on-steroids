@@ -1,5 +1,17 @@
 # README
 
+# POSTMAN ON STEROIDS
+
+Presentation on Postman advanced features by Sara Tornincasa (Codermine).
+This collection includes:
+* simple folder
+* advanced folder
+* collection runs folder
+* flows folder
+* unit folder
+
+All requests are based on real-life APIs and all tests are taken from real life situations I have encountered in a big project.
+
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/24c46dde6180320d69be)
 
 ---
